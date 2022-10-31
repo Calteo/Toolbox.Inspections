@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Toolbox.Inspections.Inspection" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAABAAAAAAAABAAAAAAAgAAAAIAA=</HashCode>
+      <FileName>Inspections\Inspection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Toolbox.Inspections.ObjectInspection" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Inspections\ObjectInspection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Toolbox.Inspections.TypeInspection" Collapsed="true">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Inspections\TypeInspection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
