@@ -6,6 +6,12 @@
     <Nullable>enable</Nullable>
     <RootNamespace>Toolbox</RootNamespace>
     <IsPublishable>False</IsPublishable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	<Authors>Calteo</Authors>
+	<Company>$(Company)</Company>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+	<RepositoryUrl>https://github.com/Calteo/Toolbox.Inspections</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
