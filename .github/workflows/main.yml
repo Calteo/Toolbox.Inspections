@@ -47,59 +47,25 @@ jobs:
 
     - name: Remove unnecessary files
       run: del output\*.pdb,output\*.dev.json,output\*.deps.json 
-    
-    - name: Upload output
-      uses: actions/upload-artifact@v3
-      with:
-        name: output
-        path: output
-      
-  pack_release:
-    name: Pack Release
-    needs: build
-    runs-on: windows-latest
 
-    steps:
-    - name: Download output
-      uses: actions/download-artifact@v3
-      with:
-        name: output
-        path: output
-    
-    - name: Pack binaries
+    - name: Zip binaries
       uses: TheDoctor0/zip-release@0.6.2
       with:
         filename: 'binary.zip'
         path: output
         type: 'zip'
 
-    - name: Upload artifacts
-      uses: actions/upload-artifact@v3
-      with:
-        name: artifact
-        path: binary.zip
-  
-  push_release:
-    name: Push Release
-    needs: pack_release
-    runs-on: windows-latest
-
-    steps:
-    - name: Download artifacts
-      uses: actions/download-artifact@v3
-      with:
-        name: artifact
-        
+    # create github release
     - name: Create Release
       uses: actions/create-release@v1
-      id: create_release
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
+      id: create_release
       with:
           tag_name: ${{ env.BUILD_VERSION }}
           release_name: Release ${{ env.BUILD_VERSION }}
 
-    - name: Upload binary asset 
+    - name: Add zipped binaries
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
