@@ -86,7 +86,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./binary.zip
+        asset_path: ./output/binary.zip
         asset_name: Toolbox-Inspections-Binary-${{ env.BUILD_VERSION }}.zip
         asset_content_type: application/zip
 
@@ -96,7 +96,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./binary.zip
+        asset_path: ./output/Toolbox.Inspections.${{ env.BUILD_VERSION }}.nupkg
         asset_name: Toolbox.Inspections.${{ env.BUILD_VERSION }}.nupkg
         asset_content_type: application/nuget
 
