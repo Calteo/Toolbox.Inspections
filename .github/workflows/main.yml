@@ -100,6 +100,10 @@ jobs:
         asset_name: Toolbox.Inspections.${{ env.BUILD_VERSION }}.nupkg
         asset_content_type: application/nuget
 
+    - name: Pulish NuGet
+    - name: Publish
+      run: nuget push **\*.nupkg -Source 'https://api.nuget.org/v3/index.json' -ApiKey ${{secrets.NUGET_TOKEN}}
+
     # publish documentation
     - name: Publish documentation
       if: github.event_name == 'push'
