@@ -31,6 +31,9 @@ jobs:
       with:
         dotnet-version: 6.0.x
 
+    - name: Install NuGet
+      uses: NuGet/setup-nuget@v1.0.5
+
     - name: Install DocFX
       uses: crazy-max/ghaction-chocolatey@v1
       with:
@@ -101,7 +104,6 @@ jobs:
         asset_content_type: application/nuget
 
     - name: Pulish NuGet
-    - name: Publish
       run: nuget push **\*.nupkg -Source 'https://api.nuget.org/v3/index.json' -ApiKey ${{secrets.NUGET_TOKEN}}
 
     # publish documentation
