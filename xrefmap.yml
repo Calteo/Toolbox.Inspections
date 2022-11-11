@@ -1,0 +1,606 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Toolbox.Inspections
+  name: Toolbox.Inspections
+  href: api/Toolbox.Inspections.html
+  commentId: N:Toolbox.Inspections
+  fullName: Toolbox.Inspections
+  nameWithType: Toolbox.Inspections
+- uid: Toolbox.Inspections.Inspection
+  name: Inspection
+  href: api/Toolbox.Inspections.Inspection.html
+  commentId: T:Toolbox.Inspections.Inspection
+  fullName: Toolbox.Inspections.Inspection
+  nameWithType: Inspection
+- uid: Toolbox.Inspections.Inspection.#ctor(System.String)
+  name: Inspection(String)
+  href: api/Toolbox.Inspections.Inspection.html#Toolbox_Inspections_Inspection__ctor_System_String_
+  commentId: M:Toolbox.Inspections.Inspection.#ctor(System.String)
+  fullName: Toolbox.Inspections.Inspection.Inspection(System.String)
+  nameWithType: Inspection.Inspection(String)
+- uid: Toolbox.Inspections.Inspection.#ctor*
+  name: Inspection
+  href: api/Toolbox.Inspections.Inspection.html#Toolbox_Inspections_Inspection__ctor_
+  commentId: Overload:Toolbox.Inspections.Inspection.#ctor
+  isSpec: "True"
+  fullName: Toolbox.Inspections.Inspection.Inspection
+  nameWithType: Inspection.Inspection
+- uid: Toolbox.Inspections.Inspection.Inspections
+  name: Inspections
+  href: api/Toolbox.Inspections.Inspection.html#Toolbox_Inspections_Inspection_Inspections
+  commentId: P:Toolbox.Inspections.Inspection.Inspections
+  fullName: Toolbox.Inspections.Inspection.Inspections
+  nameWithType: Inspection.Inspections
+- uid: Toolbox.Inspections.Inspection.Inspections*
+  name: Inspections
+  href: api/Toolbox.Inspections.Inspection.html#Toolbox_Inspections_Inspection_Inspections_
+  commentId: Overload:Toolbox.Inspections.Inspection.Inspections
+  isSpec: "True"
+  fullName: Toolbox.Inspections.Inspection.Inspections
+  nameWithType: Inspection.Inspections
+- uid: Toolbox.Inspections.Inspection.Key
+  name: Key
+  href: api/Toolbox.Inspections.Inspection.html#Toolbox_Inspections_Inspection_Key
+  commentId: P:Toolbox.Inspections.Inspection.Key
+  fullName: Toolbox.Inspections.Inspection.Key
+  nameWithType: Inspection.Key
+- uid: Toolbox.Inspections.Inspection.Key*
+  name: Key
+  href: api/Toolbox.Inspections.Inspection.html#Toolbox_Inspections_Inspection_Key_
+  commentId: Overload:Toolbox.Inspections.Inspection.Key
+  isSpec: "True"
+  fullName: Toolbox.Inspections.Inspection.Key
+  nameWithType: Inspection.Key
+- uid: Toolbox.Inspections.Inspection.KeySeparator
+  name: KeySeparator
+  href: api/Toolbox.Inspections.Inspection.html#Toolbox_Inspections_Inspection_KeySeparator
+  commentId: F:Toolbox.Inspections.Inspection.KeySeparator
+  fullName: Toolbox.Inspections.Inspection.KeySeparator
+  nameWithType: Inspection.KeySeparator
+- uid: Toolbox.Inspections.Inspection.ParseProperties(System.Object,IEnumerable{System.Reflection.PropertyInfo})
+  name: ParseProperties(Object, IEnumerable<PropertyInfo>)
+  href: api/Toolbox.Inspections.Inspection.html#Toolbox_Inspections_Inspection_ParseProperties_System_Object_IEnumerable_System_Reflection_PropertyInfo__
+  commentId: M:Toolbox.Inspections.Inspection.ParseProperties(System.Object,IEnumerable{System.Reflection.PropertyInfo})
+  name.vb: ParseProperties(Object, IEnumerable(Of PropertyInfo))
+  fullName: Toolbox.Inspections.Inspection.ParseProperties(System.Object, IEnumerable<System.Reflection.PropertyInfo>)
+  fullName.vb: Toolbox.Inspections.Inspection.ParseProperties(System.Object, IEnumerable(Of System.Reflection.PropertyInfo))
+  nameWithType: Inspection.ParseProperties(Object, IEnumerable<PropertyInfo>)
+  nameWithType.vb: Inspection.ParseProperties(Object, IEnumerable(Of PropertyInfo))
+- uid: Toolbox.Inspections.Inspection.ParseProperties*
+  name: ParseProperties
+  href: api/Toolbox.Inspections.Inspection.html#Toolbox_Inspections_Inspection_ParseProperties_
+  commentId: Overload:Toolbox.Inspections.Inspection.ParseProperties
+  isSpec: "True"
+  fullName: Toolbox.Inspections.Inspection.ParseProperties
+  nameWithType: Inspection.ParseProperties
+- uid: Toolbox.Inspections.Inspection.Values
+  name: Values
+  href: api/Toolbox.Inspections.Inspection.html#Toolbox_Inspections_Inspection_Values
+  commentId: P:Toolbox.Inspections.Inspection.Values
+  fullName: Toolbox.Inspections.Inspection.Values
+  nameWithType: Inspection.Values
+- uid: Toolbox.Inspections.Inspection.Values*
+  name: Values
+  href: api/Toolbox.Inspections.Inspection.html#Toolbox_Inspections_Inspection_Values_
+  commentId: Overload:Toolbox.Inspections.Inspection.Values
+  isSpec: "True"
+  fullName: Toolbox.Inspections.Inspection.Values
+  nameWithType: Inspection.Values
+- uid: Toolbox.Inspections.ObjectInspection
+  name: ObjectInspection
+  href: api/Toolbox.Inspections.ObjectInspection.html
+  commentId: T:Toolbox.Inspections.ObjectInspection
+  fullName: Toolbox.Inspections.ObjectInspection
+  nameWithType: ObjectInspection
+- uid: Toolbox.Inspections.ObjectInspection.#ctor(System.String,System.Object)
+  name: ObjectInspection(String, Object)
+  href: api/Toolbox.Inspections.ObjectInspection.html#Toolbox_Inspections_ObjectInspection__ctor_System_String_System_Object_
+  commentId: M:Toolbox.Inspections.ObjectInspection.#ctor(System.String,System.Object)
+  fullName: Toolbox.Inspections.ObjectInspection.ObjectInspection(System.String, System.Object)
+  nameWithType: ObjectInspection.ObjectInspection(String, Object)
+- uid: Toolbox.Inspections.ObjectInspection.#ctor*
+  name: ObjectInspection
+  href: api/Toolbox.Inspections.ObjectInspection.html#Toolbox_Inspections_ObjectInspection__ctor_
+  commentId: Overload:Toolbox.Inspections.ObjectInspection.#ctor
+  isSpec: "True"
+  fullName: Toolbox.Inspections.ObjectInspection.ObjectInspection
+  nameWithType: ObjectInspection.ObjectInspection
+- uid: Toolbox.Inspections.TypeInspection
+  name: TypeInspection
+  href: api/Toolbox.Inspections.TypeInspection.html
+  commentId: T:Toolbox.Inspections.TypeInspection
+  fullName: Toolbox.Inspections.TypeInspection
+  nameWithType: TypeInspection
+- uid: Toolbox.Inspections.TypeInspection.#ctor(System.String,Type)
+  name: TypeInspection(String, Type)
+  href: api/Toolbox.Inspections.TypeInspection.html#Toolbox_Inspections_TypeInspection__ctor_System_String_Type_
+  commentId: M:Toolbox.Inspections.TypeInspection.#ctor(System.String,Type)
+  fullName: Toolbox.Inspections.TypeInspection.TypeInspection(System.String, Type)
+  nameWithType: TypeInspection.TypeInspection(String, Type)
+- uid: Toolbox.Inspections.TypeInspection.#ctor*
+  name: TypeInspection
+  href: api/Toolbox.Inspections.TypeInspection.html#Toolbox_Inspections_TypeInspection__ctor_
+  commentId: Overload:Toolbox.Inspections.TypeInspection.#ctor
+  isSpec: "True"
+  fullName: Toolbox.Inspections.TypeInspection.TypeInspection
+  nameWithType: TypeInspection.TypeInspection
+- uid: Toolbox.Inspectors
+  name: Toolbox.Inspectors
+  href: api/Toolbox.Inspectors.html
+  commentId: N:Toolbox.Inspectors
+  fullName: Toolbox.Inspectors
+  nameWithType: Toolbox.Inspectors
+- uid: Toolbox.Inspectors.Inspector
+  name: Inspector
+  href: api/Toolbox.Inspectors.Inspector.html
+  commentId: T:Toolbox.Inspectors.Inspector
+  fullName: Toolbox.Inspectors.Inspector
+  nameWithType: Inspector
+- uid: Toolbox.Inspectors.Inspector.#ctor(System.String)
+  name: Inspector(String)
+  href: api/Toolbox.Inspectors.Inspector.html#Toolbox_Inspectors_Inspector__ctor_System_String_
+  commentId: M:Toolbox.Inspectors.Inspector.#ctor(System.String)
+  fullName: Toolbox.Inspectors.Inspector.Inspector(System.String)
+  nameWithType: Inspector.Inspector(String)
+- uid: Toolbox.Inspectors.Inspector.#ctor*
+  name: Inspector
+  href: api/Toolbox.Inspectors.Inspector.html#Toolbox_Inspectors_Inspector__ctor_
+  commentId: Overload:Toolbox.Inspectors.Inspector.#ctor
+  isSpec: "True"
+  fullName: Toolbox.Inspectors.Inspector.Inspector
+  nameWithType: Inspector.Inspector
+- uid: Toolbox.Inspectors.Inspector.GetInspections
+  name: GetInspections()
+  href: api/Toolbox.Inspectors.Inspector.html#Toolbox_Inspectors_Inspector_GetInspections
+  commentId: M:Toolbox.Inspectors.Inspector.GetInspections
+  fullName: Toolbox.Inspectors.Inspector.GetInspections()
+  nameWithType: Inspector.GetInspections()
+- uid: Toolbox.Inspectors.Inspector.GetInspections*
+  name: GetInspections
+  href: api/Toolbox.Inspectors.Inspector.html#Toolbox_Inspectors_Inspector_GetInspections_
+  commentId: Overload:Toolbox.Inspectors.Inspector.GetInspections
+  isSpec: "True"
+  fullName: Toolbox.Inspectors.Inspector.GetInspections
+  nameWithType: Inspector.GetInspections
+- uid: Toolbox.Inspectors.Inspector.Inspect
+  name: Inspect()
+  href: api/Toolbox.Inspectors.Inspector.html#Toolbox_Inspectors_Inspector_Inspect
+  commentId: M:Toolbox.Inspectors.Inspector.Inspect
+  fullName: Toolbox.Inspectors.Inspector.Inspect()
+  nameWithType: Inspector.Inspect()
+- uid: Toolbox.Inspectors.Inspector.Inspect*
+  name: Inspect
+  href: api/Toolbox.Inspectors.Inspector.html#Toolbox_Inspectors_Inspector_Inspect_
+  commentId: Overload:Toolbox.Inspectors.Inspector.Inspect
+  isSpec: "True"
+  fullName: Toolbox.Inspectors.Inspector.Inspect
+  nameWithType: Inspector.Inspect
+- uid: Toolbox.Inspectors.Inspector.IsAlive
+  name: IsAlive
+  href: api/Toolbox.Inspectors.Inspector.html#Toolbox_Inspectors_Inspector_IsAlive
+  commentId: P:Toolbox.Inspectors.Inspector.IsAlive
+  fullName: Toolbox.Inspectors.Inspector.IsAlive
+  nameWithType: Inspector.IsAlive
+- uid: Toolbox.Inspectors.Inspector.IsAlive*
+  name: IsAlive
+  href: api/Toolbox.Inspectors.Inspector.html#Toolbox_Inspectors_Inspector_IsAlive_
+  commentId: Overload:Toolbox.Inspectors.Inspector.IsAlive
+  isSpec: "True"
+  fullName: Toolbox.Inspectors.Inspector.IsAlive
+  nameWithType: Inspector.IsAlive
+- uid: Toolbox.Inspectors.Inspector.Key
+  name: Key
+  href: api/Toolbox.Inspectors.Inspector.html#Toolbox_Inspectors_Inspector_Key
+  commentId: P:Toolbox.Inspectors.Inspector.Key
+  fullName: Toolbox.Inspectors.Inspector.Key
+  nameWithType: Inspector.Key
+- uid: Toolbox.Inspectors.Inspector.Key*
+  name: Key
+  href: api/Toolbox.Inspectors.Inspector.html#Toolbox_Inspectors_Inspector_Key_
+  commentId: Overload:Toolbox.Inspectors.Inspector.Key
+  isSpec: "True"
+  fullName: Toolbox.Inspectors.Inspector.Key
+  nameWithType: Inspector.Key
+- uid: Toolbox.Inspectors.InspectorAttribute
+  name: InspectorAttribute
+  href: api/Toolbox.Inspectors.InspectorAttribute.html
+  commentId: T:Toolbox.Inspectors.InspectorAttribute
+  fullName: Toolbox.Inspectors.InspectorAttribute
+  nameWithType: InspectorAttribute
+- uid: Toolbox.Inspectors.InspectorAttribute.#ctor(Type)
+  name: InspectorAttribute(Type)
+  href: api/Toolbox.Inspectors.InspectorAttribute.html#Toolbox_Inspectors_InspectorAttribute__ctor_Type_
+  commentId: M:Toolbox.Inspectors.InspectorAttribute.#ctor(Type)
+  fullName: Toolbox.Inspectors.InspectorAttribute.InspectorAttribute(Type)
+  nameWithType: InspectorAttribute.InspectorAttribute(Type)
+- uid: Toolbox.Inspectors.InspectorAttribute.#ctor*
+  name: InspectorAttribute
+  href: api/Toolbox.Inspectors.InspectorAttribute.html#Toolbox_Inspectors_InspectorAttribute__ctor_
+  commentId: Overload:Toolbox.Inspectors.InspectorAttribute.#ctor
+  isSpec: "True"
+  fullName: Toolbox.Inspectors.InspectorAttribute.InspectorAttribute
+  nameWithType: InspectorAttribute.InspectorAttribute
+- uid: Toolbox.Inspectors.NoInspectionAttribute
+  name: NoInspectionAttribute
+  href: api/Toolbox.Inspectors.NoInspectionAttribute.html
+  commentId: T:Toolbox.Inspectors.NoInspectionAttribute
+  fullName: Toolbox.Inspectors.NoInspectionAttribute
+  nameWithType: NoInspectionAttribute
+- uid: Toolbox.Inspectors.NoInspectionAttribute.Clear(Type,System.String)
+  name: Clear(Type, String)
+  href: api/Toolbox.Inspectors.NoInspectionAttribute.html#Toolbox_Inspectors_NoInspectionAttribute_Clear_Type_System_String_
+  commentId: M:Toolbox.Inspectors.NoInspectionAttribute.Clear(Type,System.String)
+  fullName: Toolbox.Inspectors.NoInspectionAttribute.Clear(Type, System.String)
+  nameWithType: NoInspectionAttribute.Clear(Type, String)
+- uid: Toolbox.Inspectors.NoInspectionAttribute.Clear*
+  name: Clear
+  href: api/Toolbox.Inspectors.NoInspectionAttribute.html#Toolbox_Inspectors_NoInspectionAttribute_Clear_
+  commentId: Overload:Toolbox.Inspectors.NoInspectionAttribute.Clear
+  isSpec: "True"
+  fullName: Toolbox.Inspectors.NoInspectionAttribute.Clear
+  nameWithType: NoInspectionAttribute.Clear
+- uid: Toolbox.Inspectors.NoInspectionAttribute.Clear``1(System.String)
+  name: Clear<T>(String)
+  href: api/Toolbox.Inspectors.NoInspectionAttribute.html#Toolbox_Inspectors_NoInspectionAttribute_Clear__1_System_String_
+  commentId: M:Toolbox.Inspectors.NoInspectionAttribute.Clear``1(System.String)
+  name.vb: Clear(Of T)(String)
+  fullName: Toolbox.Inspectors.NoInspectionAttribute.Clear<T>(System.String)
+  fullName.vb: Toolbox.Inspectors.NoInspectionAttribute.Clear(Of T)(System.String)
+  nameWithType: NoInspectionAttribute.Clear<T>(String)
+  nameWithType.vb: NoInspectionAttribute.Clear(Of T)(String)
+- uid: Toolbox.Inspectors.NoInspectionAttribute.IsSet(System.Reflection.PropertyInfo)
+  name: IsSet(PropertyInfo)
+  href: api/Toolbox.Inspectors.NoInspectionAttribute.html#Toolbox_Inspectors_NoInspectionAttribute_IsSet_System_Reflection_PropertyInfo_
+  commentId: M:Toolbox.Inspectors.NoInspectionAttribute.IsSet(System.Reflection.PropertyInfo)
+  fullName: Toolbox.Inspectors.NoInspectionAttribute.IsSet(System.Reflection.PropertyInfo)
+  nameWithType: NoInspectionAttribute.IsSet(PropertyInfo)
+- uid: Toolbox.Inspectors.NoInspectionAttribute.IsSet(Type,System.String)
+  name: IsSet(Type, String)
+  href: api/Toolbox.Inspectors.NoInspectionAttribute.html#Toolbox_Inspectors_NoInspectionAttribute_IsSet_Type_System_String_
+  commentId: M:Toolbox.Inspectors.NoInspectionAttribute.IsSet(Type,System.String)
+  fullName: Toolbox.Inspectors.NoInspectionAttribute.IsSet(Type, System.String)
+  nameWithType: NoInspectionAttribute.IsSet(Type, String)
+- uid: Toolbox.Inspectors.NoInspectionAttribute.IsSet*
+  name: IsSet
+  href: api/Toolbox.Inspectors.NoInspectionAttribute.html#Toolbox_Inspectors_NoInspectionAttribute_IsSet_
+  commentId: Overload:Toolbox.Inspectors.NoInspectionAttribute.IsSet
+  isSpec: "True"
+  fullName: Toolbox.Inspectors.NoInspectionAttribute.IsSet
+  nameWithType: NoInspectionAttribute.IsSet
+- uid: Toolbox.Inspectors.NoInspectionAttribute.IsSet``1(System.String)
+  name: IsSet<T>(String)
+  href: api/Toolbox.Inspectors.NoInspectionAttribute.html#Toolbox_Inspectors_NoInspectionAttribute_IsSet__1_System_String_
+  commentId: M:Toolbox.Inspectors.NoInspectionAttribute.IsSet``1(System.String)
+  name.vb: IsSet(Of T)(String)
+  fullName: Toolbox.Inspectors.NoInspectionAttribute.IsSet<T>(System.String)
+  fullName.vb: Toolbox.Inspectors.NoInspectionAttribute.IsSet(Of T)(System.String)
+  nameWithType: NoInspectionAttribute.IsSet<T>(String)
+  nameWithType.vb: NoInspectionAttribute.IsSet(Of T)(String)
+- uid: Toolbox.Inspectors.NoInspectionAttribute.Set(Type,System.String)
+  name: Set(Type, String)
+  href: api/Toolbox.Inspectors.NoInspectionAttribute.html#Toolbox_Inspectors_NoInspectionAttribute_Set_Type_System_String_
+  commentId: M:Toolbox.Inspectors.NoInspectionAttribute.Set(Type,System.String)
+  fullName: Toolbox.Inspectors.NoInspectionAttribute.Set(Type, System.String)
+  nameWithType: NoInspectionAttribute.Set(Type, String)
+- uid: Toolbox.Inspectors.NoInspectionAttribute.Set*
+  name: Set
+  href: api/Toolbox.Inspectors.NoInspectionAttribute.html#Toolbox_Inspectors_NoInspectionAttribute_Set_
+  commentId: Overload:Toolbox.Inspectors.NoInspectionAttribute.Set
+  isSpec: "True"
+  fullName: Toolbox.Inspectors.NoInspectionAttribute.Set
+  nameWithType: NoInspectionAttribute.Set
+- uid: Toolbox.Inspectors.NoInspectionAttribute.Set``1(System.String)
+  name: Set<T>(String)
+  href: api/Toolbox.Inspectors.NoInspectionAttribute.html#Toolbox_Inspectors_NoInspectionAttribute_Set__1_System_String_
+  commentId: M:Toolbox.Inspectors.NoInspectionAttribute.Set``1(System.String)
+  name.vb: Set(Of T)(String)
+  fullName: Toolbox.Inspectors.NoInspectionAttribute.Set<T>(System.String)
+  fullName.vb: Toolbox.Inspectors.NoInspectionAttribute.Set(Of T)(System.String)
+  nameWithType: NoInspectionAttribute.Set<T>(String)
+  nameWithType.vb: NoInspectionAttribute.Set(Of T)(String)
+- uid: Toolbox.Inspectors.TypeInspector
+  name: TypeInspector
+  href: api/Toolbox.Inspectors.TypeInspector.html
+  commentId: T:Toolbox.Inspectors.TypeInspector
+  fullName: Toolbox.Inspectors.TypeInspector
+  nameWithType: TypeInspector
+- uid: Toolbox.Inspectors.TypeInspector.#ctor(System.String,Type)
+  name: TypeInspector(String, Type)
+  href: api/Toolbox.Inspectors.TypeInspector.html#Toolbox_Inspectors_TypeInspector__ctor_System_String_Type_
+  commentId: M:Toolbox.Inspectors.TypeInspector.#ctor(System.String,Type)
+  fullName: Toolbox.Inspectors.TypeInspector.TypeInspector(System.String, Type)
+  nameWithType: TypeInspector.TypeInspector(String, Type)
+- uid: Toolbox.Inspectors.TypeInspector.#ctor*
+  name: TypeInspector
+  href: api/Toolbox.Inspectors.TypeInspector.html#Toolbox_Inspectors_TypeInspector__ctor_
+  commentId: Overload:Toolbox.Inspectors.TypeInspector.#ctor
+  isSpec: "True"
+  fullName: Toolbox.Inspectors.TypeInspector.TypeInspector
+  nameWithType: TypeInspector.TypeInspector
+- uid: Toolbox.Inspectors.TypeInspector.GetInspections
+  name: GetInspections()
+  href: api/Toolbox.Inspectors.TypeInspector.html#Toolbox_Inspectors_TypeInspector_GetInspections
+  commentId: M:Toolbox.Inspectors.TypeInspector.GetInspections
+  fullName: Toolbox.Inspectors.TypeInspector.GetInspections()
+  nameWithType: TypeInspector.GetInspections()
+- uid: Toolbox.Inspectors.TypeInspector.GetInspections*
+  name: GetInspections
+  href: api/Toolbox.Inspectors.TypeInspector.html#Toolbox_Inspectors_TypeInspector_GetInspections_
+  commentId: Overload:Toolbox.Inspectors.TypeInspector.GetInspections
+  isSpec: "True"
+  fullName: Toolbox.Inspectors.TypeInspector.GetInspections
+  nameWithType: TypeInspector.GetInspections
+- uid: Toolbox.Inspectors.TypeInspector.IsAlive
+  name: IsAlive
+  href: api/Toolbox.Inspectors.TypeInspector.html#Toolbox_Inspectors_TypeInspector_IsAlive
+  commentId: P:Toolbox.Inspectors.TypeInspector.IsAlive
+  fullName: Toolbox.Inspectors.TypeInspector.IsAlive
+  nameWithType: TypeInspector.IsAlive
+- uid: Toolbox.Inspectors.TypeInspector.IsAlive*
+  name: IsAlive
+  href: api/Toolbox.Inspectors.TypeInspector.html#Toolbox_Inspectors_TypeInspector_IsAlive_
+  commentId: Overload:Toolbox.Inspectors.TypeInspector.IsAlive
+  isSpec: "True"
+  fullName: Toolbox.Inspectors.TypeInspector.IsAlive
+  nameWithType: TypeInspector.IsAlive
+- uid: Toolbox.Inspectors.TypeInspector.Target
+  name: Target
+  href: api/Toolbox.Inspectors.TypeInspector.html#Toolbox_Inspectors_TypeInspector_Target
+  commentId: P:Toolbox.Inspectors.TypeInspector.Target
+  fullName: Toolbox.Inspectors.TypeInspector.Target
+  nameWithType: TypeInspector.Target
+- uid: Toolbox.Inspectors.TypeInspector.Target*
+  name: Target
+  href: api/Toolbox.Inspectors.TypeInspector.html#Toolbox_Inspectors_TypeInspector_Target_
+  commentId: Overload:Toolbox.Inspectors.TypeInspector.Target
+  isSpec: "True"
+  fullName: Toolbox.Inspectors.TypeInspector.Target
+  nameWithType: TypeInspector.Target
+- uid: Toolbox.Inspectors.WeakInspector
+  name: WeakInspector
+  href: api/Toolbox.Inspectors.WeakInspector.html
+  commentId: T:Toolbox.Inspectors.WeakInspector
+  fullName: Toolbox.Inspectors.WeakInspector
+  nameWithType: WeakInspector
+- uid: Toolbox.Inspectors.WeakInspector.#ctor(System.String,System.Object)
+  name: WeakInspector(String, Object)
+  href: api/Toolbox.Inspectors.WeakInspector.html#Toolbox_Inspectors_WeakInspector__ctor_System_String_System_Object_
+  commentId: M:Toolbox.Inspectors.WeakInspector.#ctor(System.String,System.Object)
+  fullName: Toolbox.Inspectors.WeakInspector.WeakInspector(System.String, System.Object)
+  nameWithType: WeakInspector.WeakInspector(String, Object)
+- uid: Toolbox.Inspectors.WeakInspector.#ctor*
+  name: WeakInspector
+  href: api/Toolbox.Inspectors.WeakInspector.html#Toolbox_Inspectors_WeakInspector__ctor_
+  commentId: Overload:Toolbox.Inspectors.WeakInspector.#ctor
+  isSpec: "True"
+  fullName: Toolbox.Inspectors.WeakInspector.WeakInspector
+  nameWithType: WeakInspector.WeakInspector
+- uid: Toolbox.Inspectors.WeakInspector.GetInspections
+  name: GetInspections()
+  href: api/Toolbox.Inspectors.WeakInspector.html#Toolbox_Inspectors_WeakInspector_GetInspections
+  commentId: M:Toolbox.Inspectors.WeakInspector.GetInspections
+  fullName: Toolbox.Inspectors.WeakInspector.GetInspections()
+  nameWithType: WeakInspector.GetInspections()
+- uid: Toolbox.Inspectors.WeakInspector.GetInspections*
+  name: GetInspections
+  href: api/Toolbox.Inspectors.WeakInspector.html#Toolbox_Inspectors_WeakInspector_GetInspections_
+  commentId: Overload:Toolbox.Inspectors.WeakInspector.GetInspections
+  isSpec: "True"
+  fullName: Toolbox.Inspectors.WeakInspector.GetInspections
+  nameWithType: WeakInspector.GetInspections
+- uid: Toolbox.Inspectors.WeakInspector.IsAlive
+  name: IsAlive
+  href: api/Toolbox.Inspectors.WeakInspector.html#Toolbox_Inspectors_WeakInspector_IsAlive
+  commentId: P:Toolbox.Inspectors.WeakInspector.IsAlive
+  fullName: Toolbox.Inspectors.WeakInspector.IsAlive
+  nameWithType: WeakInspector.IsAlive
+- uid: Toolbox.Inspectors.WeakInspector.IsAlive*
+  name: IsAlive
+  href: api/Toolbox.Inspectors.WeakInspector.html#Toolbox_Inspectors_WeakInspector_IsAlive_
+  commentId: Overload:Toolbox.Inspectors.WeakInspector.IsAlive
+  isSpec: "True"
+  fullName: Toolbox.Inspectors.WeakInspector.IsAlive
+  nameWithType: WeakInspector.IsAlive
+- uid: Toolbox.Inspectors.WeakInspector.Object
+  name: Object
+  href: api/Toolbox.Inspectors.WeakInspector.html#Toolbox_Inspectors_WeakInspector_Object
+  commentId: P:Toolbox.Inspectors.WeakInspector.Object
+  fullName: Toolbox.Inspectors.WeakInspector.Object
+  nameWithType: WeakInspector.Object
+- uid: Toolbox.Inspectors.WeakInspector.Object*
+  name: Object
+  href: api/Toolbox.Inspectors.WeakInspector.html#Toolbox_Inspectors_WeakInspector_Object_
+  commentId: Overload:Toolbox.Inspectors.WeakInspector.Object
+  isSpec: "True"
+  fullName: Toolbox.Inspectors.WeakInspector.Object
+  nameWithType: WeakInspector.Object
+- uid: Toolbox.Serialization
+  name: Toolbox.Serialization
+  href: api/Toolbox.Serialization.html
+  commentId: N:Toolbox.Serialization
+  fullName: Toolbox.Serialization
+  nameWithType: Toolbox.Serialization
+- uid: Toolbox.Serialization.InspectionFormatter
+  name: InspectionFormatter
+  href: api/Toolbox.Serialization.InspectionFormatter.html
+  commentId: T:Toolbox.Serialization.InspectionFormatter
+  fullName: Toolbox.Serialization.InspectionFormatter
+  nameWithType: InspectionFormatter
+- uid: Toolbox.Serialization.InspectionFormatter.BeginSerialize(Stream,IEnumerable{Toolbox.Inspections.Inspection})
+  name: BeginSerialize(Stream, IEnumerable<Inspection>)
+  href: api/Toolbox.Serialization.InspectionFormatter.html#Toolbox_Serialization_InspectionFormatter_BeginSerialize_Stream_IEnumerable_Toolbox_Inspections_Inspection__
+  commentId: M:Toolbox.Serialization.InspectionFormatter.BeginSerialize(Stream,IEnumerable{Toolbox.Inspections.Inspection})
+  name.vb: BeginSerialize(Stream, IEnumerable(Of Inspection))
+  fullName: Toolbox.Serialization.InspectionFormatter.BeginSerialize(Stream, IEnumerable<Toolbox.Inspections.Inspection>)
+  fullName.vb: Toolbox.Serialization.InspectionFormatter.BeginSerialize(Stream, IEnumerable(Of Toolbox.Inspections.Inspection))
+  nameWithType: InspectionFormatter.BeginSerialize(Stream, IEnumerable<Inspection>)
+  nameWithType.vb: InspectionFormatter.BeginSerialize(Stream, IEnumerable(Of Inspection))
+- uid: Toolbox.Serialization.InspectionFormatter.BeginSerialize*
+  name: BeginSerialize
+  href: api/Toolbox.Serialization.InspectionFormatter.html#Toolbox_Serialization_InspectionFormatter_BeginSerialize_
+  commentId: Overload:Toolbox.Serialization.InspectionFormatter.BeginSerialize
+  isSpec: "True"
+  fullName: Toolbox.Serialization.InspectionFormatter.BeginSerialize
+  nameWithType: InspectionFormatter.BeginSerialize
+- uid: Toolbox.Serialization.InspectionFormatter.EndSerialize(Stream,IEnumerable{Toolbox.Inspections.Inspection})
+  name: EndSerialize(Stream, IEnumerable<Inspection>)
+  href: api/Toolbox.Serialization.InspectionFormatter.html#Toolbox_Serialization_InspectionFormatter_EndSerialize_Stream_IEnumerable_Toolbox_Inspections_Inspection__
+  commentId: M:Toolbox.Serialization.InspectionFormatter.EndSerialize(Stream,IEnumerable{Toolbox.Inspections.Inspection})
+  name.vb: EndSerialize(Stream, IEnumerable(Of Inspection))
+  fullName: Toolbox.Serialization.InspectionFormatter.EndSerialize(Stream, IEnumerable<Toolbox.Inspections.Inspection>)
+  fullName.vb: Toolbox.Serialization.InspectionFormatter.EndSerialize(Stream, IEnumerable(Of Toolbox.Inspections.Inspection))
+  nameWithType: InspectionFormatter.EndSerialize(Stream, IEnumerable<Inspection>)
+  nameWithType.vb: InspectionFormatter.EndSerialize(Stream, IEnumerable(Of Inspection))
+- uid: Toolbox.Serialization.InspectionFormatter.EndSerialize*
+  name: EndSerialize
+  href: api/Toolbox.Serialization.InspectionFormatter.html#Toolbox_Serialization_InspectionFormatter_EndSerialize_
+  commentId: Overload:Toolbox.Serialization.InspectionFormatter.EndSerialize
+  isSpec: "True"
+  fullName: Toolbox.Serialization.InspectionFormatter.EndSerialize
+  nameWithType: InspectionFormatter.EndSerialize
+- uid: Toolbox.Serialization.InspectionFormatter.Serialize(Stream,IEnumerable{Toolbox.Inspections.Inspection})
+  name: Serialize(Stream, IEnumerable<Inspection>)
+  href: api/Toolbox.Serialization.InspectionFormatter.html#Toolbox_Serialization_InspectionFormatter_Serialize_Stream_IEnumerable_Toolbox_Inspections_Inspection__
+  commentId: M:Toolbox.Serialization.InspectionFormatter.Serialize(Stream,IEnumerable{Toolbox.Inspections.Inspection})
+  name.vb: Serialize(Stream, IEnumerable(Of Inspection))
+  fullName: Toolbox.Serialization.InspectionFormatter.Serialize(Stream, IEnumerable<Toolbox.Inspections.Inspection>)
+  fullName.vb: Toolbox.Serialization.InspectionFormatter.Serialize(Stream, IEnumerable(Of Toolbox.Inspections.Inspection))
+  nameWithType: InspectionFormatter.Serialize(Stream, IEnumerable<Inspection>)
+  nameWithType.vb: InspectionFormatter.Serialize(Stream, IEnumerable(Of Inspection))
+- uid: Toolbox.Serialization.InspectionFormatter.Serialize*
+  name: Serialize
+  href: api/Toolbox.Serialization.InspectionFormatter.html#Toolbox_Serialization_InspectionFormatter_Serialize_
+  commentId: Overload:Toolbox.Serialization.InspectionFormatter.Serialize
+  isSpec: "True"
+  fullName: Toolbox.Serialization.InspectionFormatter.Serialize
+  nameWithType: InspectionFormatter.Serialize
+- uid: Toolbox.Serialization.InspectionFormatter.Write(Stream,Toolbox.Inspections.Inspection)
+  name: Write(Stream, Inspection)
+  href: api/Toolbox.Serialization.InspectionFormatter.html#Toolbox_Serialization_InspectionFormatter_Write_Stream_Toolbox_Inspections_Inspection_
+  commentId: M:Toolbox.Serialization.InspectionFormatter.Write(Stream,Toolbox.Inspections.Inspection)
+  fullName: Toolbox.Serialization.InspectionFormatter.Write(Stream, Toolbox.Inspections.Inspection)
+  nameWithType: InspectionFormatter.Write(Stream, Inspection)
+- uid: Toolbox.Serialization.InspectionFormatter.Write*
+  name: Write
+  href: api/Toolbox.Serialization.InspectionFormatter.html#Toolbox_Serialization_InspectionFormatter_Write_
+  commentId: Overload:Toolbox.Serialization.InspectionFormatter.Write
+  isSpec: "True"
+  fullName: Toolbox.Serialization.InspectionFormatter.Write
+  nameWithType: InspectionFormatter.Write
+- uid: Toolbox.Serialization.InspectionFormatter.WriteContent(Stream,Toolbox.Inspections.Inspection)
+  name: WriteContent(Stream, Inspection)
+  href: api/Toolbox.Serialization.InspectionFormatter.html#Toolbox_Serialization_InspectionFormatter_WriteContent_Stream_Toolbox_Inspections_Inspection_
+  commentId: M:Toolbox.Serialization.InspectionFormatter.WriteContent(Stream,Toolbox.Inspections.Inspection)
+  fullName: Toolbox.Serialization.InspectionFormatter.WriteContent(Stream, Toolbox.Inspections.Inspection)
+  nameWithType: InspectionFormatter.WriteContent(Stream, Inspection)
+- uid: Toolbox.Serialization.InspectionFormatter.WriteContent*
+  name: WriteContent
+  href: api/Toolbox.Serialization.InspectionFormatter.html#Toolbox_Serialization_InspectionFormatter_WriteContent_
+  commentId: Overload:Toolbox.Serialization.InspectionFormatter.WriteContent
+  isSpec: "True"
+  fullName: Toolbox.Serialization.InspectionFormatter.WriteContent
+  nameWithType: InspectionFormatter.WriteContent
+- uid: Toolbox.Serialization.InspectionFormatter.WriteFooter(Stream,Toolbox.Inspections.Inspection)
+  name: WriteFooter(Stream, Inspection)
+  href: api/Toolbox.Serialization.InspectionFormatter.html#Toolbox_Serialization_InspectionFormatter_WriteFooter_Stream_Toolbox_Inspections_Inspection_
+  commentId: M:Toolbox.Serialization.InspectionFormatter.WriteFooter(Stream,Toolbox.Inspections.Inspection)
+  fullName: Toolbox.Serialization.InspectionFormatter.WriteFooter(Stream, Toolbox.Inspections.Inspection)
+  nameWithType: InspectionFormatter.WriteFooter(Stream, Inspection)
+- uid: Toolbox.Serialization.InspectionFormatter.WriteFooter*
+  name: WriteFooter
+  href: api/Toolbox.Serialization.InspectionFormatter.html#Toolbox_Serialization_InspectionFormatter_WriteFooter_
+  commentId: Overload:Toolbox.Serialization.InspectionFormatter.WriteFooter
+  isSpec: "True"
+  fullName: Toolbox.Serialization.InspectionFormatter.WriteFooter
+  nameWithType: InspectionFormatter.WriteFooter
+- uid: Toolbox.Serialization.InspectionFormatter.WriteHeader(Stream,Toolbox.Inspections.Inspection)
+  name: WriteHeader(Stream, Inspection)
+  href: api/Toolbox.Serialization.InspectionFormatter.html#Toolbox_Serialization_InspectionFormatter_WriteHeader_Stream_Toolbox_Inspections_Inspection_
+  commentId: M:Toolbox.Serialization.InspectionFormatter.WriteHeader(Stream,Toolbox.Inspections.Inspection)
+  fullName: Toolbox.Serialization.InspectionFormatter.WriteHeader(Stream, Toolbox.Inspections.Inspection)
+  nameWithType: InspectionFormatter.WriteHeader(Stream, Inspection)
+- uid: Toolbox.Serialization.InspectionFormatter.WriteHeader*
+  name: WriteHeader
+  href: api/Toolbox.Serialization.InspectionFormatter.html#Toolbox_Serialization_InspectionFormatter_WriteHeader_
+  commentId: Overload:Toolbox.Serialization.InspectionFormatter.WriteHeader
+  isSpec: "True"
+  fullName: Toolbox.Serialization.InspectionFormatter.WriteHeader
+  nameWithType: InspectionFormatter.WriteHeader
+- uid: Toolbox.Serialization.JsonInspectionFormatter
+  name: JsonInspectionFormatter
+  href: api/Toolbox.Serialization.JsonInspectionFormatter.html
+  commentId: T:Toolbox.Serialization.JsonInspectionFormatter
+  fullName: Toolbox.Serialization.JsonInspectionFormatter
+  nameWithType: JsonInspectionFormatter
+- uid: Toolbox.Serialization.JsonInspectionFormatter.BeginSerialize(System.IO.Stream,IEnumerable{Toolbox.Inspections.Inspection})
+  name: BeginSerialize(Stream, IEnumerable<Inspection>)
+  href: api/Toolbox.Serialization.JsonInspectionFormatter.html#Toolbox_Serialization_JsonInspectionFormatter_BeginSerialize_System_IO_Stream_IEnumerable_Toolbox_Inspections_Inspection__
+  commentId: M:Toolbox.Serialization.JsonInspectionFormatter.BeginSerialize(System.IO.Stream,IEnumerable{Toolbox.Inspections.Inspection})
+  name.vb: BeginSerialize(Stream, IEnumerable(Of Inspection))
+  fullName: Toolbox.Serialization.JsonInspectionFormatter.BeginSerialize(System.IO.Stream, IEnumerable<Toolbox.Inspections.Inspection>)
+  fullName.vb: Toolbox.Serialization.JsonInspectionFormatter.BeginSerialize(System.IO.Stream, IEnumerable(Of Toolbox.Inspections.Inspection))
+  nameWithType: JsonInspectionFormatter.BeginSerialize(Stream, IEnumerable<Inspection>)
+  nameWithType.vb: JsonInspectionFormatter.BeginSerialize(Stream, IEnumerable(Of Inspection))
+- uid: Toolbox.Serialization.JsonInspectionFormatter.BeginSerialize*
+  name: BeginSerialize
+  href: api/Toolbox.Serialization.JsonInspectionFormatter.html#Toolbox_Serialization_JsonInspectionFormatter_BeginSerialize_
+  commentId: Overload:Toolbox.Serialization.JsonInspectionFormatter.BeginSerialize
+  isSpec: "True"
+  fullName: Toolbox.Serialization.JsonInspectionFormatter.BeginSerialize
+  nameWithType: JsonInspectionFormatter.BeginSerialize
+- uid: Toolbox.Serialization.JsonInspectionFormatter.EndSerialize(System.IO.Stream,IEnumerable{Toolbox.Inspections.Inspection})
+  name: EndSerialize(Stream, IEnumerable<Inspection>)
+  href: api/Toolbox.Serialization.JsonInspectionFormatter.html#Toolbox_Serialization_JsonInspectionFormatter_EndSerialize_System_IO_Stream_IEnumerable_Toolbox_Inspections_Inspection__
+  commentId: M:Toolbox.Serialization.JsonInspectionFormatter.EndSerialize(System.IO.Stream,IEnumerable{Toolbox.Inspections.Inspection})
+  name.vb: EndSerialize(Stream, IEnumerable(Of Inspection))
+  fullName: Toolbox.Serialization.JsonInspectionFormatter.EndSerialize(System.IO.Stream, IEnumerable<Toolbox.Inspections.Inspection>)
+  fullName.vb: Toolbox.Serialization.JsonInspectionFormatter.EndSerialize(System.IO.Stream, IEnumerable(Of Toolbox.Inspections.Inspection))
+  nameWithType: JsonInspectionFormatter.EndSerialize(Stream, IEnumerable<Inspection>)
+  nameWithType.vb: JsonInspectionFormatter.EndSerialize(Stream, IEnumerable(Of Inspection))
+- uid: Toolbox.Serialization.JsonInspectionFormatter.EndSerialize*
+  name: EndSerialize
+  href: api/Toolbox.Serialization.JsonInspectionFormatter.html#Toolbox_Serialization_JsonInspectionFormatter_EndSerialize_
+  commentId: Overload:Toolbox.Serialization.JsonInspectionFormatter.EndSerialize
+  isSpec: "True"
+  fullName: Toolbox.Serialization.JsonInspectionFormatter.EndSerialize
+  nameWithType: JsonInspectionFormatter.EndSerialize
+- uid: Toolbox.Serialization.JsonInspectionFormatter.WriteContent(System.IO.Stream,Toolbox.Inspections.Inspection)
+  name: WriteContent(Stream, Inspection)
+  href: api/Toolbox.Serialization.JsonInspectionFormatter.html#Toolbox_Serialization_JsonInspectionFormatter_WriteContent_System_IO_Stream_Toolbox_Inspections_Inspection_
+  commentId: M:Toolbox.Serialization.JsonInspectionFormatter.WriteContent(System.IO.Stream,Toolbox.Inspections.Inspection)
+  fullName: Toolbox.Serialization.JsonInspectionFormatter.WriteContent(System.IO.Stream, Toolbox.Inspections.Inspection)
+  nameWithType: JsonInspectionFormatter.WriteContent(Stream, Inspection)
+- uid: Toolbox.Serialization.JsonInspectionFormatter.WriteContent*
+  name: WriteContent
+  href: api/Toolbox.Serialization.JsonInspectionFormatter.html#Toolbox_Serialization_JsonInspectionFormatter_WriteContent_
+  commentId: Overload:Toolbox.Serialization.JsonInspectionFormatter.WriteContent
+  isSpec: "True"
+  fullName: Toolbox.Serialization.JsonInspectionFormatter.WriteContent
+  nameWithType: JsonInspectionFormatter.WriteContent
+- uid: Toolbox.Serialization.JsonInspectionFormatter.WriteFooter(System.IO.Stream,Toolbox.Inspections.Inspection)
+  name: WriteFooter(Stream, Inspection)
+  href: api/Toolbox.Serialization.JsonInspectionFormatter.html#Toolbox_Serialization_JsonInspectionFormatter_WriteFooter_System_IO_Stream_Toolbox_Inspections_Inspection_
+  commentId: M:Toolbox.Serialization.JsonInspectionFormatter.WriteFooter(System.IO.Stream,Toolbox.Inspections.Inspection)
+  fullName: Toolbox.Serialization.JsonInspectionFormatter.WriteFooter(System.IO.Stream, Toolbox.Inspections.Inspection)
+  nameWithType: JsonInspectionFormatter.WriteFooter(Stream, Inspection)
+- uid: Toolbox.Serialization.JsonInspectionFormatter.WriteFooter*
+  name: WriteFooter
+  href: api/Toolbox.Serialization.JsonInspectionFormatter.html#Toolbox_Serialization_JsonInspectionFormatter_WriteFooter_
+  commentId: Overload:Toolbox.Serialization.JsonInspectionFormatter.WriteFooter
+  isSpec: "True"
+  fullName: Toolbox.Serialization.JsonInspectionFormatter.WriteFooter
+  nameWithType: JsonInspectionFormatter.WriteFooter
+- uid: Toolbox.Serialization.JsonInspectionFormatter.WriteHeader(System.IO.Stream,Toolbox.Inspections.Inspection)
+  name: WriteHeader(Stream, Inspection)
+  href: api/Toolbox.Serialization.JsonInspectionFormatter.html#Toolbox_Serialization_JsonInspectionFormatter_WriteHeader_System_IO_Stream_Toolbox_Inspections_Inspection_
+  commentId: M:Toolbox.Serialization.JsonInspectionFormatter.WriteHeader(System.IO.Stream,Toolbox.Inspections.Inspection)
+  fullName: Toolbox.Serialization.JsonInspectionFormatter.WriteHeader(System.IO.Stream, Toolbox.Inspections.Inspection)
+  nameWithType: JsonInspectionFormatter.WriteHeader(Stream, Inspection)
+- uid: Toolbox.Serialization.JsonInspectionFormatter.WriteHeader*
+  name: WriteHeader
+  href: api/Toolbox.Serialization.JsonInspectionFormatter.html#Toolbox_Serialization_JsonInspectionFormatter_WriteHeader_
+  commentId: Overload:Toolbox.Serialization.JsonInspectionFormatter.WriteHeader
+  isSpec: "True"
+  fullName: Toolbox.Serialization.JsonInspectionFormatter.WriteHeader
+  nameWithType: JsonInspectionFormatter.WriteHeader
