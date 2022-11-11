@@ -31,6 +31,9 @@ jobs:
       with:
         dotnet-version: 6.0.x
 
+    - name: Install NuGet
+      uses: NuGet/setup-nuget@v1.0.5
+
     - name: Install DocFX
       uses: crazy-max/ghaction-chocolatey@v1
       with:
@@ -66,7 +69,8 @@ jobs:
       uses: TheDoctor0/zip-release@0.6.2
       with:
         filename: 'binary.zip'
-        path: output
+        directory: output
+        path: Toolbox.Inspections.dll
         type: 'zip'
 
     # create github release
@@ -85,10 +89,23 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./binary.zip
+        asset_path: ./output/binary.zip
         asset_name: Toolbox-Inspections-Binary-${{ env.BUILD_VERSION }}.zip
         asset_content_type: application/zip
-    
+
+    - name: Add nuget package
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./output/Toolbox.Inspections.${{ env.BUILD_VERSION }}.nupkg
+        asset_name: Toolbox.Inspections.${{ env.BUILD_VERSION }}.nupkg
+        asset_content_type: application/nuget
+
+    - name: Pulish NuGet
+      run: nuget push **\*.nupkg -Source 'https://api.nuget.org/v3/index.json' -ApiKey ${{secrets.NUGET_TOKEN}}
+
     # publish documentation
     - name: Publish documentation
       if: github.event_name == 'push'
